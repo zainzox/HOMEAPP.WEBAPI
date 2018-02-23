@@ -43,10 +43,10 @@ namespace HOMEAPP.WEBAPI.HOMEAPP_Managers
                 ////insert the exception if is there any....
                 //_Repository.InsertExceptions(
                 //     100,
-                //    "Users| InsertUser",
+                //    "Users| InsertUseasdasdr",
                 //    objvmUserRegister.UserName,
                 //    ex.Message,
-                //    ex.StackTrace,
+                //    ex.StackTrace,asdasdasd
                 //    null,
                 //    DateTime.UtcNow.AddHours(5)
                 //    );
