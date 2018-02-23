@@ -44,7 +44,7 @@ namespace HOMEAPP.WEBAPI.HOMEAPP_Managers
                 //_Repository.InsertExceptions(
                 //     100,
                 //    "Users| InsertUseasdasdr",
-                //    objvmUserRegister.UserName,
+                //    objvmUserRegister.UserName Owais Hassan,
                 //    ex.Message,
                 //    ex.StackTrace,asdasdasd
                 //    null,
